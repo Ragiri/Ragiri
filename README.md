@@ -5,7 +5,7 @@ I am Rena. I'm a French computer science student at EFRIT.
 ## :computer: Programation
 Actually I do JS/TS
 
-I like doing C# with Unity or C++ with Unreal
+I like doing C# with Unity or C++ with Unreal <br />
 I work with the JavaScript during my permanent contract with my company
 
 Sometime I like using SFML or BunnyLib when working with C++ or C <br />
