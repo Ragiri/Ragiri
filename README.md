@@ -24,8 +24,8 @@ Maybe if I draw something nice I push it to a Repo composed only of picture
 ## :city_sunset: Socializing
 You can reach me on:
 
-Twitter @_rena_san <br />
-Discord レナ#6272
+Twitter: @_rena_san <br />
+Discord: レナ#6272
 
 <!--
 **Ragiri/Ragiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
