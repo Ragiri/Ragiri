@@ -17,10 +17,6 @@ And I use Windows for gaming and drawing.
 I play various rhythm games, and various RPG. <br />
 Sometime I like play rogue like games (like Isaac).
 
-## :paintbrush: Drawing
-I stating to draw recently (may 2022), I train to this evry weeks <br />
-Maybe if I draw something nice I push it to a Repo composed only of picture
-
 ## :city_sunset: Socializing
 You can reach me on:
 
