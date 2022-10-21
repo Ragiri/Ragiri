@@ -1,6 +1,6 @@
 ### Hi there 👋 :rocket:
 
-I am Rena. I'm a French computer science student at EFRIT.
+I am Rena. I'm a French computer science student at EFRITS.
 
 ## :computer: Programation
 Actually I do JS/TS
