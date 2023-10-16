@@ -8,7 +8,7 @@ Actually I do Typescript
 I like doing C# with Unity or C++ with Unreal <br />
 I work with JavaScript during my permanent contract with my company
 
-Sometime I like using SFML or BunnyLib when working with C++ or C <br />
+Sometime I like using SFML or OpenGl when working with C++ or C <br />
 
 I have a dual-boot Arch(Manjaro) Linux/Windows. I use Linux for programming and daily task, I particularly love configuring my linux. <br />
 And I use Windows for gaming and drawing.
