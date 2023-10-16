@@ -3,7 +3,7 @@
 I am Rena. I'm a French computer science student at EFRITS.
 
 ## :computer: Programation
-Actually I do PHP
+Actually I do Typescript
 
 I like doing C# with Unity or C++ with Unreal <br />
 I work with JavaScript during my permanent contract with my company
