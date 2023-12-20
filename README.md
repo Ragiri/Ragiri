@@ -21,7 +21,7 @@ Sometime I like play rogue like games (like Isaac).
 You can reach me on:
 
 Twitter: @_rena_san <br />
-Discord: レナ#6272
+Discord: _rena_san
 
 <!--
 **Ragiri/Ragiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
