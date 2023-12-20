@@ -10,7 +10,7 @@ I work with JavaScript and Php during my permanent contract with my company
 
 Sometime I like using SFML or OpenGl when working with C++ or C <br />
 
-I have a dual-boot Arch(Manjaro) Linux/Windows. I use Linux for programming and daily task, I particularly love configuring my linux. <br />
+I have a dual-boot Arch(Garuda) Linux/Windows. I use Linux for programming and daily task, I particularly love configuring my linux. <br />
 And I use Windows for gaming and drawing.
 
 ## :video_game: Video games
