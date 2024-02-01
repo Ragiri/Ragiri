@@ -23,6 +23,8 @@ You can reach me on:
 Twitter: @_rena_san <br />
 Discord: _rena_san
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragiri&show_icons=true&locale=en&layout=compact" alt="rena" /></p>
+
 <!--
 **Ragiri/Ragiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
