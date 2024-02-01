@@ -13,7 +13,7 @@ Sometime I like using SFML or OpenGl when working with C++ or C <br />
 I have a dual-boot Arch(Garuda) Linux/Windows. I use Linux for programming and daily task, I particularly love configuring my linux. <br />
 And I use Windows for gaming and drawing.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragiri&show_icons=true&locale=en&layout=compact" alt="rena" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragiri&show_icons=true&locale=en&layout=compact" alt="rena" /></p> <br /><br /><br /><br /><br /><br /><br />
 
 ## :video_game: Video games
 I play various rhythm games, and various RPG. <br />
